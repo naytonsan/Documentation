@@ -96,7 +96,7 @@ Triggers when the Firebase Sign Up failed
 
 ### Sign Up Success
 
-Triggers when the Firebase Sign Up failed
+Triggers when the Firebase Sign Up Succsess
 
 <div class="block" ai2-block="event" not-rendered="true" value="%7B%22componentName%22:%20%22Firebase%20Authentication%22,%20%22name%22:%20%22Sign%20Up%20Success%22,%20%22param%22:%20%5B%22provider%22,%20%22user%20ID%22,%20%22name%22,%20%22email%22,%20%22phone%20Number%22,%20%22profile%20Picture%22%5D%7D"></div>
 
